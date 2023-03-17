@@ -4,9 +4,12 @@
 
 # task1WithInterface
 - Sending data from MyFragmentOne to MyFragmentTwo using Interface defined in MyFragmentOne button click
+- Data will lost when configuration changed
+
+![image](https://user-images.githubusercontent.com/108717119/225864249-af23760c-a067-4181-9fef-21fa939d6f26.png)
 
 # task2WithViewModel
 - Sending data from FragmentOne to FragmentTwo and visa versa using SharedViewModel
-
+- Data will not lost when configuration changed
 
 ![image](https://user-images.githubusercontent.com/108717119/225862612-f778ae9f-f4a9-49a2-8566-df4d506b70da.png)
