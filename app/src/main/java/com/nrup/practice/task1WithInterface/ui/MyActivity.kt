@@ -21,7 +21,7 @@ class MyActivity : AppCompatActivity(), MyFragmentOne.InfButtonClick {
     private fun addTwoFragmentsToActivity() {
         supportFragmentManager.beginTransaction()
             .add(R.id.fragmentOne, MyFragmentOne())
-            .add(R.id.fragmentOne, MyFragmentTwo())
+            .add(R.id.fragmentTwo, MyFragmentTwo())
             .commit()
     }
 
