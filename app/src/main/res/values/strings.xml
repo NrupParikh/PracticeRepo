@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="enter_your_text">Enter your text</string>
+    <string name="data_from_fragment_two">Data from Fragment Two</string>
+    <string name="data_from_fragment_one">Data from Fragment One</string>
+</resources>
